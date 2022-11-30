@@ -24,8 +24,6 @@
 
 - 📫 How to reach me **saini222302@gmail.com**
 
-- 📄 Know about my experiences 
-
 - ⚡ Fun fact **Javasrcipt**
 
 <h3 align="left">Connect with me:</h3>
