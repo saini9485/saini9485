@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **saini222302@gmail.com**
 
-- 📄 Know about my experiences file:///C:/Users/laptop%20home/Downloads/Rajesh%20Saini%2030N.pdf
+- 📄 Know about my experiences 
 
 - ⚡ Fun fact **Javasrcipt**
 
