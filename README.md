@@ -1,12 +1,12 @@
-<!-- <h1 align="center">Hi 👋, I'm Rajesh Saini</h1>
+<h1 align="center">Hi 👋, I'm Rajesh Saini</h1>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/rajesh-saini9485/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rajesh-saini9485/" height="30" width="80" background-color ="blue" /></a>
+  <a href = "https://www.linkedin.com/in/rajesh-saini9485/ "><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
    
 </div>
-<h3 align="center">passionate frontend developer now learning Full stack Development</h3>
+<!-- <h3 align="center">passionate frontend developer now learning Full stack Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saini9485&label=Profile%20views&color=0e75b6&style=flat" alt="saini9485" /> </p>
 
