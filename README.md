@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **JavaScript , React.JS**
 
-- 📫 How to reach me **https://www.linkedin.com/in/rajesh-saini9485/**
+- 📫 How to reach me **https://www.linkedin.com/in/rajesh-saini9485/*
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1RaCoWUwAw-msAZkUGdSJE4onm4Het2k0ANuQq_KW_RU/edit?usp=sharing](https://docs.google.com/document/d/1RaCoWUwAw-msAZkUGdSJE4onm4Het2k0ANuQq_KW_RU/edit?usp=sharing)
 
