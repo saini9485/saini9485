@@ -65,7 +65,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Developing my Skills.**
+- 🔭 I’m currently working on **Frontend Web Developer and Developing my Skills.**
 
 - 🌱 I’m currently learning **Full Stack web Development** 
 
