@@ -2,6 +2,7 @@
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <h1 align="center">B.Tech||CS||Open To Work</h1>
   
   <a href = "https://www.linkedin.com/in/rajesh-saini9485/ "><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
    
